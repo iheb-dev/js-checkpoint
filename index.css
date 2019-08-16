@@ -1,0 +1,64 @@
+.sec1 {
+  background-color: black;
+  width: 1200px;
+  margin: auto;
+  margin-top: 300px;
+  height: 300px;
+}
+.header {
+  color: aliceblue;
+  margin-left: 500px;
+  font-size: 2em;
+}
+.bot2 {
+  margin-left: 450px;
+  display: flex;
+  cursor: pointer;
+}
+.bo1 {
+  width: 40px;
+  height: 40px;
+  color: red;
+  /* border: 2px red solid; */
+  cursor: pointer;
+}
+.bo2 {
+  width: 40px;
+  height: 40px;
+  color: red;
+  /* border: 2px red solid; */
+}
+.ander {
+  width: 140px;
+  height: 40px;
+  color: red;
+  /* border: 2px red solid; */
+  cursor: pointer;
+}
+.wow {
+  width: 50px;
+  height: 40px;
+  color: red;
+  /* border: 2px red solid; */
+}
+.area {
+  width: 700px;
+  height: 100px;
+  margin-left: 300px;
+  margin-top: 10px;
+  border-radius: 12px;
+  border: 2px red solid;
+}
+.wow2 {
+  width: 150px;
+  height: 40px;
+  color: red;
+}
+
+.italic {
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+}
+.inder {
+  text-decoration: underline;
+}
